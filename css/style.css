@@ -86,11 +86,11 @@
         gap: 5px;
         background: none;
         border: 0;
-        transition: 500ms;
+        transition: 500ms ;
     }
 
     .btn_menu span {
-        width: 40px;
+        width: 35px;
         height: 5px;
         border-radius: 10px;
         background: #ffffff;
